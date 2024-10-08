@@ -19,6 +19,6 @@ spec:
     spec: 
       containers:
       - name: nginx
-        image: tedthedev20/nginx:v0.1.0
+        image: tedthedev20/nginx:v0.1.1
         ports: 
         - containerPort: 80 
